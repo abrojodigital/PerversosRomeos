@@ -1,0 +1,43 @@
+Mesa 1 (cinco integrantes)
+. Diseño de animales 3d (en Blender) de pocos polígonos para proyectos indies.
+. App donde se puedan encontrar locales de comidas alternativas
+. Servicio de acompañante para salir a correr
+. App transporte urbano con horarios y rutas
+. Servicio para contratar intérpretes de lenguaje de señas
+. App para traducir textos pero a partir de una foto
+. App que indique si hay calles cortadas
+. App para asistencia técnica automotor
+
+Mesa 2 (8 integrantes)
+. Ex, más que un futuro. Producción de funda para celular con altoparlante bluetooth
+. Alimentador automático para mascotas con control de tiempo o remoto.
+. Silla gamer con ventilador.
+. Termo con pantalla digital que permita mostrar diversa información.
+. Lapicera con corrector. El lapirrector
+. App para indicar puntos de WiFi libres en la localidad.
+. Alfombra con sensor de peso para apagar la alarma del celular.
+. App / Plataforma para turistas que permita sumar puntos con el fin de fidelizarlo con la región.
+
+Mesa 3 (7 integrantes)
+. Pulsera rastreadora para niños
+. Trafic automatizada (con IA que maneje sola el vehículo)
+. Aspiradora que se limpie sola
+. Sistema de seguridad hogareña con datos biométricos.
+. Airbag (o algo así) para vehículo (objetivo, minimizar daños)
+. Banda elástica que permita calentar o enfriar bebidas.
+. Anteojos que autodetecte el aumento que necesita una persona y ajuste su graduación.
+. Extensión táctil del monitor
+. App para conseguir trabajos (pero para gente que recién se incorpora en el mundo laboral)
+
+Mesa 4 (8 integrantes)
+. Termo que cambie de color según temperatura con indicador
+. Cepillo de dientes que auto carga pasta dental.
+. Juguetes para bebés comestibles (sabores frutales, sin azúcar agregada, sin químicos)
+. Maceta que se autoriegue programable
+. Prepaga para mascotas
+. Tintura para cabello que cambie de color con la temperatura
+. Pulsera que se conecta al auto y manda alertas si te dormís o tenés taquicardia
+. Silla de ruedas con GPS que lleve a la persona de un lugar a otro
+. Funda para celular con airbag
+. Zapatilla que permita cambiar sus suelas
+. Almohada que controla tu ritmo cardíaco
